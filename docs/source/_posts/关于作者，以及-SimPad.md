@@ -13,8 +13,7 @@ tags:
 
 一切源于 18 年初，在漫展上与专用键盘的一场邂逅。具体可以查看这篇文章
 
-> [
-一场由 osu! 引发的 SimPad 设计制销一条龙 | 手柄君的小阁](https://www.bysb.net/3663.html)
+> [一场由 osu! 引发的 SimPad 设计制销一条龙 | 手柄君的小阁](https://www.bysb.net/3663.html)
 
 总之，阴差阳错之下，SimPad 诞生了，并希望能在未来发展成为 SimDevices
 
