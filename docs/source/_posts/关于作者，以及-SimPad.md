@@ -1,11 +1,13 @@
 title: 关于作者，以及 SimPad
-author: SimHandle
+author: Handle
 date: 2019-08-04 23:13:43
 tags:
 ---
 ## 我是谁
 
 你好，我是手柄， osu!ID Handle ，一名普通的 osu! 玩家。很高兴遇见你，也很高兴你能够点开这个页面看这些话。
+
+[English](//sim.bysb.net/2019/08/08/about-the-author-and-simPad/)
 
 <!-- more -->
 

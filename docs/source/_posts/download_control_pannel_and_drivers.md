@@ -1,5 +1,5 @@
 title: Download Control Pannel & Drivers
-author: SimHandle
+author: Handle
 date: 2019-08-06 00:29:52
 tags:
 ---
