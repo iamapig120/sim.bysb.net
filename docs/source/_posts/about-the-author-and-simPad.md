@@ -11,7 +11,7 @@ Hi, I'm Handle, an osu! player. Glad to meet you and thanks for clicking this pa
 
 <!-- more -->
 
-## What’s Sim-Devices
+## What's Sim-Devices
 
 Everything began in early 2018, when an encounter with the special keyboards took place at a Comicon. You may check this article if you have a basic proficiency of Chinese.
 
@@ -23,7 +23,7 @@ Anyway, SimPad came into being unexpectedly and wished to grow into Sim-Devices.
 
 ### Goal
 
-Sim-Devices wishes to design a keyboard popular among PC music game players, which can be sold at an affordable prices. Inspired by the word “simple”, the term “Sim” expresses our wish to design simple but useful devices. Sim-Devices values the core-most demand on the devices, which is why we’ve designed it in a way that lowers the cost without undermining the availability and quality of the devices. But I would never cut the expenses on meeting the core needs. Instead, I would invest heavily to select customized parts so as to ensure uncompromised user experience.
+Sim-Devices wishes to design a keyboard popular among PC music game players, which can be sold at an affordable prices. Inspired by the word “simple”, the term “Sim” expresses our wish to design simple but useful devices. Sim-Devices values the core-most demand on the devices, which is why we've designed it in a way that lowers the cost without undermining the availability and quality of the devices. But I would never cut the expenses on meeting the core needs. Instead, I would invest heavily to select customized parts so as to ensure uncompromised user experience.
 
 ### Profits
 
