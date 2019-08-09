@@ -12,18 +12,19 @@ You can download the official control panel and drivers for Sim-Devices below. T
 
 ### Control Panel for SimPad, SimPad v2 SimPad Nano
 
-#### Windows
+#### Windows (Latest version 0.160)
 
 - [Github](https://github.com/iamapig120/simpad-control-panel/releases/latest)
 - [Chinese Mirror](http://simshop.po-i.cc:8117/check-roms/simpad_control_pannel.zip)
-- [Baidu Netdisk](https://pan.baidu.com/s/1scVouJ7jq3c1n6lFD__lfg)
-- [Google Drive](https://drive.google.com/open?id=1bE3scDsA2ponZdcIxMntryAm33o9ncpu)
+- [Baidu Netdisk](https://pan.baidu.com/s/1iyKR8VuCHOcb268qGasDjw)
+- [Google Drive](https://drive.google.com/open?id=1BKlzmygNA-BeAlN8PIP6oxpImct3_gvv)
 
-#### macOS
+#### macOS (Latest version 0.158)
 
 - [Github](https://github.com/iamapig120/simpad-control-panel/releases/latest)
 - [Chinese Mirror](http://simshop.po-i.cc:8117/check-roms/simpad_control_pannel_darwin.dmg)
-- [Baidu Netdisk](https://pan.baidu.com/s/1Ab6sMe0pUPINsFjGEV192A)
+- [Baidu Netdisk](https://pan.baidu.com/s/1iyKR8VuCHOcb268qGasDjw)
+- [Google Drive](https://drive.google.com/open?id=1BKlzmygNA-BeAlN8PIP6oxpImct3_gvv)
 
 ### SimPad v2 firmware programming software
 
@@ -51,18 +52,19 @@ You can download the official control panel and drivers for Sim-Devices below. T
 
 ### SimPad 设置工具
 
-#### Windows
+#### Windows (最新版本 v0.160)
 
 - [Github 载点](https://github.com/iamapig120/simpad-control-panel/releases/latest)
 - [中国大陆镜像](http://simshop.po-i.cc:8117/check-roms/simpad_control_pannel.zip)
-- [百度网盘](https://pan.baidu.com/s/1scVouJ7jq3c1n6lFD__lfg)
-- [谷歌网盘](https://drive.google.com/open?id=1bE3scDsA2ponZdcIxMntryAm33o9ncpu)
+- [百度网盘](https://pan.baidu.com/s/1iyKR8VuCHOcb268qGasDjw)
+- [谷歌网盘](https://drive.google.com/open?id=1BKlzmygNA-BeAlN8PIP6oxpImct3_gvv)
 
-#### macOS
+#### macOS (最新版本 v0.158)
 
 - [Github 载点](https://github.com/iamapig120/simpad-control-panel/releases/latest)
 - [中国大陆镜像](http://simshop.po-i.cc:8117/check-roms/simpad_control_pannel_darwin.dmg)
-- [百度网盘](https://pan.baidu.com/s/1Ab6sMe0pUPINsFjGEV192A)
+- [百度网盘](https://pan.baidu.com/s/1iyKR8VuCHOcb268qGasDjw)
+- [谷歌网盘](https://drive.google.com/open?id=1BKlzmygNA-BeAlN8PIP6oxpImct3_gvv)
 
 ### SimPad v2 固件手刷工具
 
