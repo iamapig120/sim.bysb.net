@@ -5,12 +5,15 @@ tags:
 ---
 # Download Tools & Drivers
 
-English:
 You can download the official control panel and drivers for Sim-Devices below. The CP supports all devices, which you can select in the settings of the CP.
+
+[中文](/2019/08/06/download_control_pannel_and_drivers/#下载设置工具和驱动程序)
 
 <!--more-->
 
-### Control Panel for SimPad, SimPad v2 SimPad Nano
+## Tools
+
+### Control Panel for SimPad
 
 #### Windows (Latest version 0.160)
 
@@ -47,8 +50,6 @@ You can download the official control panel and drivers for Sim-Devices below. T
 您可以在下方下载到设置工具和驱动程序，您只需确认您的设备型号并选择适合您操作系统的资源下载即可。
 
 ## 工具
-
-*包含 SimPad v2, SimPad Nano 以及类似产品。*
 
 ### SimPad 设置工具
 
