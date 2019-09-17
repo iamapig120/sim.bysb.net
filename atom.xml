@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>SimDevices</title>
+  
+  <subtitle>Simple but useful devices</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://sim.bysb.net/"/>
+  <updated>2019-09-17T13:12:49.890Z</updated>
+  <id>https://sim.bysb.net/</id>
+  
+  <author>
+    <name>Handle</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>SimPad 设置工具更新 v0.161</title>
+    <link href="https://sim.bysb.net/2019/09/17/SimPad-%E8%AE%BE%E7%BD%AE%E5%B7%A5%E5%85%B7%E6%9B%B4%E6%96%B0-0-161/"/>
+    <id>https://sim.bysb.net/2019/09/17/SimPad-设置工具更新-0-161/</id>
+    <published>2019-09-17T13:04:43.000Z</published>
+    <updated>2019-09-17T13:12:49.890Z</updated>
+    
+    <content type="html"><![CDATA[<p>SimPad 设置工具已于 9 月 17 日更新到 v0.161 版本，以下是更新内容</p><a id="more"></a><h2 id="改进"><a href="#改进" class="headerlink" title="改进"></a>改进</h2><ol><li>修正了键盘无法设置「左Alt」键的问题</li><li>修正了键盘无法设置「左Alt」键的问题</li></ol><h2 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h2><p>您可以在这里获取下载链接</p><p><a href="//bysb.net/simdrive">访问下载页面</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;SimPad 设置工具已于 9 月 17 日更新到 v0.161 版本，以下是更新内容&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>SimPad Nano 20190820 更新概览</title>
+    <link href="https://sim.bysb.net/2019/08/20/SimPad-Nano-%E6%9B%B4%E6%96%B0%E6%A6%82%E8%A7%88/"/>
+    <id>https://sim.bysb.net/2019/08/20/SimPad-Nano-更新概览/</id>
+    <published>2019-08-20T10:52:10.000Z</published>
+    <updated>2019-09-17T12:45:15.061Z</updated>
+    
+    <content type="html"><![CDATA[<p>感谢您使用 SimPad Nano ！以下内容即将被包含在 SimPad Nano 固件版本 20190820 中推送和更新。<br>此外，这篇概览还说明了即将到来的设置工具版本 0.162 更新内容。</p><a id="more"></a><h2 id="新特性"><a href="#新特性" class="headerlink" title="新特性"></a>新特性</h2><p>是的，SimPad 现在也支持按键分层了！您可以通过辅助小按键切换按键层级来进行使用，SimPad v2 将提供 3 层主按键分层，对应三个小按键、SimPad Nano 将提供 2 层主按键分层，对应一个小按键。</p><p>在分层模式下，您可以预先配置好多组主按键功能，通过辅助按键来切换主按键的功能，让您能够在不同的环境下快速改变状态。</p><p>注：在按键分层模式下，辅助按键原有键值会失效。</p><ol><li>现在支持按键分层了，您可以为主按键指定 2 层按键切换</li></ol><h2 id="改进"><a href="#改进" class="headerlink" title="改进"></a>改进</h2><ol><li>改进了内存使用情况，略微提升了设备的稳定性</li><li>修正了一个 BUG ，这个 BUG 曾导致特定情况下会错误地触发鼠标操作</li></ol>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;感谢您使用 SimPad Nano ！以下内容即将被包含在 SimPad Nano 固件版本 20190820 中推送和更新。&lt;br&gt;此外，这篇概览还说明了即将到来的设置工具版本 0.162 更新内容。&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>About me</title>
+    <link href="https://sim.bysb.net/2019/08/08/about-the-author-and-simPad/"/>
+    <id>https://sim.bysb.net/2019/08/08/about-the-author-and-simPad/</id>
+    <published>2019-08-08T13:44:03.000Z</published>
+    <updated>2019-09-17T12:45:15.061Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Who-I-am"><a href="#Who-I-am" class="headerlink" title="Who I am."></a>Who I am.</h2><p>Hi, my name is Handle, I am an osu! player. Thanks for checking out my website and products!</p><p><a href="//sim.bysb.net/2019/08/04/%E5%85%B3%E4%BA%8E%E4%BD%9C%E8%80%85%EF%BC%8C%E4%BB%A5%E5%8F%8A-SimPad/">中文版本</a></p><a id="more"></a><h2 id="What-are-Sim-Devices"><a href="#What-are-Sim-Devices" class="headerlink" title="What are Sim-Devices?"></a>What are Sim-Devices?</h2><p>I first got introduced to custom keyboards at Comicon in the beginning of 2018. You can check out the following article if you want to know more about it (Chinese):</p><blockquote><p><a href="https://www.bysb.net/3663.html" target="_blank" rel="noopener">一场由 osu! 引发的 SimPad 设计制销一条龙 | 手柄君的小阁</a></p></blockquote><p>That said, SimPad was born and the Family Sim-Devices was made.</p><h2 id="The-goal-of-Sim-Devices"><a href="#The-goal-of-Sim-Devices" class="headerlink" title="The goal of Sim-Devices"></a>The goal of Sim-Devices</h2><h3 id="My-goal"><a href="#My-goal" class="headerlink" title="My goal"></a>My goal</h3><p>Sim-Devices are custom made keyboards for decent rythm game players on pc, which are sold fairly cheap, at an affordable price. The product’s name was inspired by the word “simple”, shortly “Sim” to express the simplicity of the devices. Sim-Devices concentrate to bring you the best performance, thats why I have designed them to stay at low cost without undermining the performance and quality of the devices. I will never cut the expenses in favour of lower performance, instead I will rather invest heavily in selecting customized parts to ensure uncompromised user experience.</p><h3 id="My-profits"><a href="#My-profits" class="headerlink" title="My profits"></a>My profits</h3><p>Both, the software and hardware of all products of Sim-Devices is manufactured by a third party,but designed and assembled by me. The favorable after-sales policy and stringent quality test leaves me with almost zero profit. Thanks to the generouse tax policies in China though, I managed to sell the products at competitive prices. Mass production would significantly lower the costs but it requires larger client size. I did try out mass production for couple devices to lower the costs, but keep the same user experience. <strong><em>Mass production still is very risky for me</em></strong>, which can’t be avoided until the products gain popularity.</p><p><strong><em>Thats why I need your help. I would justify your choice with reliable devices and premium service.</em></strong></p><p>“Made in China” is no longer a synonym for poor quality. I am working constantly to optimize the devices and hope that rythm game players everywhere around the globe can witness the charm of “Made In China” products.</p><h3 id="Comments-from-buyers"><a href="#Comments-from-buyers" class="headerlink" title="Comments from buyers"></a>Comments from buyers</h3><p><a href="https://www.youtube.com/watch?v=76mOndjSM_o" target="_blank" rel="noopener">(YouTube) Osu! Keypad/Simpad Unbox+Review –<br>Shireii</a></p><p><a href="https://home.gamer.com.tw/creationDetail.php?sn=4368198" target="_blank" rel="noopener">(巴哈姆特) SimPad v2 簡易開箱 by ↑廢宅Gamer↓</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;Who-I-am&quot;&gt;&lt;a href=&quot;#Who-I-am&quot; class=&quot;headerlink&quot; title=&quot;Who I am.&quot;&gt;&lt;/a&gt;Who I am.&lt;/h2&gt;&lt;p&gt;Hi, my name is Handle, I am an osu! player. Thanks for checking out my website and products!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;//sim.bysb.net/2019/08/04/%E5%85%B3%E4%BA%8E%E4%BD%9C%E8%80%85%EF%BC%8C%E4%BB%A5%E5%8F%8A-SimPad/&quot;&gt;中文版本&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Control Panel &amp; Drivers</title>
+    <link href="https://sim.bysb.net/2019/08/06/download_control_pannel_and_drivers/"/>
+    <id>https://sim.bysb.net/2019/08/06/download_control_pannel_and_drivers/</id>
+    <published>2019-08-05T16:29:52.000Z</published>
+    <updated>2019-09-17T13:10:34.910Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Download-Tools-amp-Drivers"><a href="#Download-Tools-amp-Drivers" class="headerlink" title="Download Tools &amp; Drivers"></a>Download Tools &amp; Drivers</h1><p>You can download the official control panel and drivers for Sim-Devices below. The CP supports all devices, which you can select in the settings of the CP.</p><p><a href="/2019/08/06/download_control_pannel_and_drivers/#下载设置工具和驱动程序">中文</a></p><a id="more"></a><h2 id="Tools"><a href="#Tools" class="headerlink" title="Tools"></a>Tools</h2><h3 id="Control-Panel-for-SimPad"><a href="#Control-Panel-for-SimPad" class="headerlink" title="Control Panel for SimPad"></a>Control Panel for SimPad</h3><h4 id="Windows-Latest-version-0-161"><a href="#Windows-Latest-version-0-161" class="headerlink" title="Windows (Latest version 0.161)"></a>Windows (Latest version 0.161)</h4><ul><li><a href="https://github.com/iamapig120/simpad-control-panel/releases/latest" target="_blank" rel="noopener">Github</a></li><li><a href="http://simshop.po-i.cc:8117/check-roms/simpad_control_pannel.zip" target="_blank" rel="noopener">Chinese Mirror</a></li><li><a href="https://pan.baidu.com/s/1iyKR8VuCHOcb268qGasDjw" target="_blank" rel="noopener">Baidu Netdisk</a></li><li><a href="https://drive.google.com/open?id=1BKlzmygNA-BeAlN8PIP6oxpImct3_gvv" target="_blank" rel="noopener">Google Drive</a></li></ul><h4 id="macOS-Latest-version-0-158"><a href="#macOS-Latest-version-0-158" class="headerlink" title="macOS (Latest version 0.158)"></a>macOS (Latest version 0.158)</h4><ul><li><a href="https://github.com/iamapig120/simpad-control-panel/releases/latest" target="_blank" rel="noopener">Github</a></li><li><a href="http://simshop.po-i.cc:8117/check-roms/simpad_control_pannel_darwin.dmg" target="_blank" rel="noopener">Chinese Mirror</a></li><li><a href="https://pan.baidu.com/s/1iyKR8VuCHOcb268qGasDjw" target="_blank" rel="noopener">Baidu Netdisk</a></li><li><a href="https://drive.google.com/open?id=1BKlzmygNA-BeAlN8PIP6oxpImct3_gvv" target="_blank" rel="noopener">Google Drive</a></li></ul><h3 id="SimPad-v2-firmware-programming-software"><a href="#SimPad-v2-firmware-programming-software" class="headerlink" title="SimPad v2 firmware programming software"></a>SimPad v2 firmware programming software</h3><h4 id="Windows"><a href="#Windows" class="headerlink" title="Windows"></a>Windows</h4><ul><li><a href="http://simshop.po-i.cc:8117/check-roms/updateTool.zip" target="_blank" rel="noopener">China Mainland</a></li></ul><h2 id="Drivers"><a href="#Drivers" class="headerlink" title="Drivers"></a>Drivers</h2><h3 id="Driver-updater-for-SimPad-v2"><a href="#Driver-updater-for-SimPad-v2" class="headerlink" title="Driver updater for SimPad v2"></a>Driver updater for SimPad v2</h3><h4 id="Windows-1"><a href="#Windows-1" class="headerlink" title="Windows"></a>Windows</h4><ul><li><a href="http://simshop.po-i.cc:8117/check-roms/DRIVER.zip" target="_blank" rel="noopener">China Mainland</a></li></ul><hr><h1 id="下载设置工具和驱动程序"><a href="#下载设置工具和驱动程序" class="headerlink" title="下载设置工具和驱动程序"></a>下载设置工具和驱动程序</h1><p>您可以在下方下载到设置工具和驱动程序，您只需确认您的设备型号并选择适合您操作系统的资源下载即可。</p><h2 id="工具"><a href="#工具" class="headerlink" title="工具"></a>工具</h2><h3 id="SimPad-设置工具"><a href="#SimPad-设置工具" class="headerlink" title="SimPad 设置工具"></a>SimPad 设置工具</h3><h4 id="Windows-最新版本-v0-161"><a href="#Windows-最新版本-v0-161" class="headerlink" title="Windows (最新版本 v0.161)"></a>Windows (最新版本 v0.161)</h4><ul><li><a href="https://github.com/iamapig120/simpad-control-panel/releases/latest" target="_blank" rel="noopener">Github 载点</a></li><li><a href="http://simshop.po-i.cc:8117/check-roms/simpad_control_pannel.zip" target="_blank" rel="noopener">中国大陆镜像</a></li><li><a href="https://pan.baidu.com/s/1iyKR8VuCHOcb268qGasDjw" target="_blank" rel="noopener">百度网盘</a></li><li><a href="https://drive.google.com/open?id=1BKlzmygNA-BeAlN8PIP6oxpImct3_gvv" target="_blank" rel="noopener">谷歌网盘</a></li></ul><h4 id="macOS-最新版本-v0-158"><a href="#macOS-最新版本-v0-158" class="headerlink" title="macOS (最新版本 v0.158)"></a>macOS (最新版本 v0.158)</h4><ul><li><a href="https://github.com/iamapig120/simpad-control-panel/releases/latest" target="_blank" rel="noopener">Github 载点</a></li><li><a href="http://simshop.po-i.cc:8117/check-roms/simpad_control_pannel_darwin.dmg" target="_blank" rel="noopener">中国大陆镜像</a></li><li><a href="https://pan.baidu.com/s/1iyKR8VuCHOcb268qGasDjw" target="_blank" rel="noopener">百度网盘</a></li><li><a href="https://drive.google.com/open?id=1BKlzmygNA-BeAlN8PIP6oxpImct3_gvv" target="_blank" rel="noopener">谷歌网盘</a></li></ul><h3 id="SimPad-v2-固件手刷工具"><a href="#SimPad-v2-固件手刷工具" class="headerlink" title="SimPad v2 固件手刷工具"></a>SimPad v2 固件手刷工具</h3><h4 id="Windows-2"><a href="#Windows-2" class="headerlink" title="Windows"></a>Windows</h4><ul><li><a href="http://simshop.po-i.cc:8117/check-roms/updateTool.zip" target="_blank" rel="noopener">中国大陆</a></li></ul><h2 id="驱动程序"><a href="#驱动程序" class="headerlink" title="驱动程序"></a>驱动程序</h2><h3 id="SimPad-v2-升级工具驱动程序"><a href="#SimPad-v2-升级工具驱动程序" class="headerlink" title="SimPad v2 升级工具驱动程序"></a>SimPad v2 升级工具驱动程序</h3><h4 id="Windows-3"><a href="#Windows-3" class="headerlink" title="Windows"></a>Windows</h4><ul><li><a href="http://simshop.po-i.cc:8117/check-roms/DRIVER.zip" target="_blank" rel="noopener">中国大陆</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Download-Tools-amp-Drivers&quot;&gt;&lt;a href=&quot;#Download-Tools-amp-Drivers&quot; class=&quot;headerlink&quot; title=&quot;Download Tools &amp;amp; Drivers&quot;&gt;&lt;/a&gt;Download Tools &amp;amp; Drivers&lt;/h1&gt;&lt;p&gt;You can download the official control panel and drivers for Sim-Devices below. The CP supports all devices, which you can select in the settings of the CP.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/2019/08/06/download_control_pannel_and_drivers/#下载设置工具和驱动程序&quot;&gt;中文&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>关于作者，以及 SimPad</title>
+    <link href="https://sim.bysb.net/2019/08/04/%E5%85%B3%E4%BA%8E%E4%BD%9C%E8%80%85%EF%BC%8C%E4%BB%A5%E5%8F%8A-SimPad/"/>
+    <id>https://sim.bysb.net/2019/08/04/关于作者，以及-SimPad/</id>
+    <published>2019-08-04T15:13:43.000Z</published>
+    <updated>2019-09-17T12:45:15.062Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="我是谁"><a href="#我是谁" class="headerlink" title="我是谁"></a>我是谁</h2><p>你好，我是手柄， osu!ID Handle ，一名普通的 osu! 玩家。很高兴遇见你，也很高兴你能够点开这个页面看这些话。</p><p><a href="//sim.bysb.net/2019/08/08/about-the-author-and-simPad/">English</a></p><a id="more"></a><h2 id="SimDevices-是什么"><a href="#SimDevices-是什么" class="headerlink" title="SimDevices 是什么"></a>SimDevices 是什么</h2><p>一切源于 18 年初，在漫展上与专用键盘的一场邂逅。具体可以查看这篇文章</p><blockquote><p><a href="https://www.bysb.net/3663.html" target="_blank" rel="noopener">一场由 osu! 引发的 SimPad 设计制销一条龙 | 手柄君的小阁</a></p></blockquote><p>总之，阴差阳错之下，SimPad 诞生了，并希望能在未来发展成为 SimDevices</p><h2 id="SimDevices-的愿景"><a href="#SimDevices-的愿景" class="headerlink" title="SimDevices 的愿景"></a>SimDevices 的愿景</h2><h3 id="目标"><a href="#目标" class="headerlink" title="目标"></a>目标</h3><p>SimDevices 希望能够做出 PC 音乐游戏玩家的首选键盘，并以大家都能够接受的合适价格进行销售。Sim 就来源于 Simple 一词，以愿做出的设备简单且实用。SimDevices 关注于设备最核心的需求，在保证良好的可用性以及可靠的质量的情况下尽可能降低成本以达到更高性价比。但在核心需求上从不节约成本，不惜重金使用精选定制配件以确保用户体验不会有所折扣。</p><h3 id="利润"><a href="#利润" class="headerlink" title="利润"></a>利润</h3><p>目前，SimDevices 全线设备软硬件设计几乎完全由我一人完成，交付第三方生产并最终由我进行组装，因为我尽量去让每一位顾客满意的售后政策以及苛刻的质量检测，对于每一台设备能够带来我的利润十分微薄，托了没有波兰同行高昂的税率的福，我总是能够提供更加合适的价格。大规模生产能够显著降低成本，通常认为，没有大量的顾客自然无法进行大规模生产。但我想：如果大规模生产带来更低的价格，能够吸引大量顾客呢？我真的进行了尝试。</p><p>我不会大量拉开产品线，因为这会带来巨大的资金压力，我只会专精做好几种设备，并通过<strong><em>大量生产降低成本</em></strong>，而不是降低使用体验。但这样同样<strong><em>会给我带来巨大的危险</em></strong>：“设备必须足够畅销。”</p><p><strong><em>这需要你的帮助，而我会通过可靠的设备和一流的服务向你证明你选择的正确。</em></strong></p><p>中国制造并不是廉价或是糟糕的代名词，我也在不断地改进设备，希望全球的 osu! 玩家能够看到中国制造的魅力。</p><h3 id="第三方评价"><a href="#第三方评价" class="headerlink" title="第三方评价"></a>第三方评价</h3><p><a href="https://www.youtube.com/watch?v=76mOndjSM_o" target="_blank" rel="noopener">(YouTube) Osu! Keypad/Simpad Unbox+Review –<br>Shireii</a><br><a href="https://home.gamer.com.tw/creationDetail.php?sn=4368198" target="_blank" rel="noopener">(巴哈姆特) SimPad v2 簡易開箱 by ↑廢宅Gamer↓</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;我是谁&quot;&gt;&lt;a href=&quot;#我是谁&quot; class=&quot;headerlink&quot; title=&quot;我是谁&quot;&gt;&lt;/a&gt;我是谁&lt;/h2&gt;&lt;p&gt;你好，我是手柄， osu!ID Handle ，一名普通的 osu! 玩家。很高兴遇见你，也很高兴你能够点开这个页面看这些话。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;//sim.bysb.net/2019/08/08/about-the-author-and-simPad/&quot;&gt;English&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://sim.bysb.net/2019/08/04/hello-world/"/>
+    <id>https://sim.bysb.net/2019/08/04/hello-world/</id>
+    <published>2019-08-03T16:00:00.000Z</published>
+    <updated>2019-09-17T12:45:15.062Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><a id="more"></a><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
