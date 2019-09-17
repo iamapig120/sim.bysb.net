@@ -5,6 +5,10 @@
   "hexo": {
     "version": "3.9.0"
   },
+  "scripts": {
+    "start": "hexo g && hexo s",
+    "deploy": "hexo clean && hexo g && hexo d"
+  },
   "dependencies": {
     "hexo": "^3.9.0",
     "hexo-admin": "^2.3.0",
