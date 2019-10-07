@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://sim.bysb.net/"/>
-  <updated>2019-10-03T16:27:39.067Z</updated>
+  <updated>2019-10-07T10:24:19.613Z</updated>
   <id>https://sim.bysb.net/</id>
   
   <author>
@@ -15,6 +15,24 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>SimPad Nano 20191007 更新概览</title>
+    <link href="https://sim.bysb.net/2019/10/07/SimPad-Nano-20191007-%E6%9B%B4%E6%96%B0%E6%A6%82%E8%A7%88/"/>
+    <id>https://sim.bysb.net/2019/10/07/SimPad-Nano-20191007-更新概览/</id>
+    <published>2019-10-07T10:23:22.000Z</published>
+    <updated>2019-10-07T10:24:19.613Z</updated>
+    
+    <content type="html"><![CDATA[<p>感谢您使用 SimPad Nano ！以下内容已经被包含在 SimPad Nano 固件版本 2019107 中推送和更新。</p><a id="more"></a><h2 id="新功能"><a href="#新功能" class="headerlink" title="新功能"></a>新功能</h2><ol><li>现在添加了两个新的灯效，按键切换常亮 和 按键切换彩虹。现在 SimPad Nano 作为夜灯更方便了！</li></ol><h2 id="已包含但尚未启用的功能"><a href="#已包含但尚未启用的功能" class="headerlink" title="已包含但尚未启用的功能"></a>已包含但尚未启用的功能</h2><ol><li><a href="https://sim.bysb.net/2019/08/20/SimPad-Nano-%E6%9B%B4%E6%96%B0%E6%A6%82%E8%A7%88/">按键分层，具体请参照 更新20190820</a></li></ol>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;感谢您使用 SimPad Nano ！以下内容已经被包含在 SimPad Nano 固件版本 2019107 中推送和更新。&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>SimPad Nano 20191004 更新概览</title>
