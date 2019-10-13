@@ -6,7 +6,7 @@
   <link href="/simblog/atom.xml" rel="self"/>
   
   <link href="https://sim.bysb.net/simblog/"/>
-  <updated>2019-10-07T10:24:19.613Z</updated>
+  <updated>2019-10-13T20:43:06.672Z</updated>
   <id>https://sim.bysb.net/simblog/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>SimDevices 博客迁移</title>
+    <link href="https://sim.bysb.net/simblog/2019/10/14/SimDevices-%E5%8D%9A%E5%AE%A2%E8%BF%81%E7%A7%BB/"/>
+    <id>https://sim.bysb.net/simblog/2019/10/14/SimDevices-博客迁移/</id>
+    <published>2019-10-13T20:42:08.000Z</published>
+    <updated>2019-10-13T20:43:06.672Z</updated>
+    
+    <content type="html"><![CDATA[<p>本博客访问地址已从 <code>https://sim.bysb.net/</code> 迁移至 <code>https://sim.bysb.net/blog</code> </p><p>请注意访问时路径的正确</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;本博客访问地址已从 &lt;code&gt;https://sim.bysb.net/&lt;/code&gt; 迁移至 &lt;code&gt;https://sim.bysb.net/blog&lt;/code&gt; &lt;/p&gt;
+&lt;p&gt;请注意访问时路径的正确&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>SimPad Nano 20191007 更新概览</title>
