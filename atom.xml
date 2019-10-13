@@ -3,11 +3,11 @@
   <title>SimDevices</title>
   
   <subtitle>Simple but useful devices</subtitle>
-  <link href="/atom.xml" rel="self"/>
+  <link href="/blog/atom.xml" rel="self"/>
   
-  <link href="https://sim.bysb.net/"/>
+  <link href="https://sim.bysb.net/blog/"/>
   <updated>2019-10-07T10:24:19.613Z</updated>
-  <id>https://sim.bysb.net/</id>
+  <id>https://sim.bysb.net/blog/</id>
   
   <author>
     <name>Handle</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>SimPad Nano 20191007 更新概览</title>
-    <link href="https://sim.bysb.net/2019/10/07/SimPad-Nano-20191007-%E6%9B%B4%E6%96%B0%E6%A6%82%E8%A7%88/"/>
-    <id>https://sim.bysb.net/2019/10/07/SimPad-Nano-20191007-更新概览/</id>
+    <link href="https://sim.bysb.net/blog/2019/10/07/SimPad-Nano-20191007-%E6%9B%B4%E6%96%B0%E6%A6%82%E8%A7%88/"/>
+    <id>https://sim.bysb.net/blog/2019/10/07/SimPad-Nano-20191007-更新概览/</id>
     <published>2019-10-07T10:23:22.000Z</published>
     <updated>2019-10-07T10:24:19.613Z</updated>
     
@@ -36,8 +36,8 @@
   
   <entry>
     <title>SimPad Nano 20191004 更新概览</title>
-    <link href="https://sim.bysb.net/2019/10/04/SimPad-Nano-firmware-update-20191004/"/>
-    <id>https://sim.bysb.net/2019/10/04/SimPad-Nano-firmware-update-20191004/</id>
+    <link href="https://sim.bysb.net/blog/2019/10/04/SimPad-Nano-firmware-update-20191004/"/>
+    <id>https://sim.bysb.net/blog/2019/10/04/SimPad-Nano-firmware-update-20191004/</id>
     <published>2019-10-03T16:22:25.000Z</published>
     <updated>2019-10-03T16:27:39.067Z</updated>
     
@@ -54,8 +54,8 @@
   
   <entry>
     <title>SimPad 设置工具更新 v0.161</title>
-    <link href="https://sim.bysb.net/2019/09/17/SimPad-%E8%AE%BE%E7%BD%AE%E5%B7%A5%E5%85%B7%E6%9B%B4%E6%96%B0-0-161/"/>
-    <id>https://sim.bysb.net/2019/09/17/SimPad-设置工具更新-0-161/</id>
+    <link href="https://sim.bysb.net/blog/2019/09/17/SimPad-%E8%AE%BE%E7%BD%AE%E5%B7%A5%E5%85%B7%E6%9B%B4%E6%96%B0-0-161/"/>
+    <id>https://sim.bysb.net/blog/2019/09/17/SimPad-设置工具更新-0-161/</id>
     <published>2019-09-17T13:04:43.000Z</published>
     <updated>2019-09-17T13:12:49.890Z</updated>
     
@@ -72,8 +72,8 @@
   
   <entry>
     <title>SimPad Nano 20190820 更新概览</title>
-    <link href="https://sim.bysb.net/2019/08/20/SimPad-Nano-%E6%9B%B4%E6%96%B0%E6%A6%82%E8%A7%88/"/>
-    <id>https://sim.bysb.net/2019/08/20/SimPad-Nano-更新概览/</id>
+    <link href="https://sim.bysb.net/blog/2019/08/20/SimPad-Nano-%E6%9B%B4%E6%96%B0%E6%A6%82%E8%A7%88/"/>
+    <id>https://sim.bysb.net/blog/2019/08/20/SimPad-Nano-更新概览/</id>
     <published>2019-08-20T10:52:10.000Z</published>
     <updated>2019-09-17T12:45:15.061Z</updated>
     
@@ -90,8 +90,8 @@
   
   <entry>
     <title>About me</title>
-    <link href="https://sim.bysb.net/2019/08/08/about-the-author-and-simPad/"/>
-    <id>https://sim.bysb.net/2019/08/08/about-the-author-and-simPad/</id>
+    <link href="https://sim.bysb.net/blog/2019/08/08/about-the-author-and-simPad/"/>
+    <id>https://sim.bysb.net/blog/2019/08/08/about-the-author-and-simPad/</id>
     <published>2019-08-08T13:44:03.000Z</published>
     <updated>2019-09-17T12:45:15.061Z</updated>
     
@@ -109,8 +109,8 @@
   
   <entry>
     <title>Control Panel &amp; Drivers</title>
-    <link href="https://sim.bysb.net/2019/08/06/download_control_pannel_and_drivers/"/>
-    <id>https://sim.bysb.net/2019/08/06/download_control_pannel_and_drivers/</id>
+    <link href="https://sim.bysb.net/blog/2019/08/06/download_control_pannel_and_drivers/"/>
+    <id>https://sim.bysb.net/blog/2019/08/06/download_control_pannel_and_drivers/</id>
     <published>2019-08-05T16:29:52.000Z</published>
     <updated>2019-10-07T10:32:57.741Z</updated>
     
@@ -128,8 +128,8 @@
   
   <entry>
     <title>关于作者，以及 SimPad</title>
-    <link href="https://sim.bysb.net/2019/08/04/%E5%85%B3%E4%BA%8E%E4%BD%9C%E8%80%85%EF%BC%8C%E4%BB%A5%E5%8F%8A-SimPad/"/>
-    <id>https://sim.bysb.net/2019/08/04/关于作者，以及-SimPad/</id>
+    <link href="https://sim.bysb.net/blog/2019/08/04/%E5%85%B3%E4%BA%8E%E4%BD%9C%E8%80%85%EF%BC%8C%E4%BB%A5%E5%8F%8A-SimPad/"/>
+    <id>https://sim.bysb.net/blog/2019/08/04/关于作者，以及-SimPad/</id>
     <published>2019-08-04T15:13:43.000Z</published>
     <updated>2019-09-17T12:45:15.062Z</updated>
     
@@ -147,8 +147,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://sim.bysb.net/2019/08/04/hello-world/"/>
-    <id>https://sim.bysb.net/2019/08/04/hello-world/</id>
+    <link href="https://sim.bysb.net/blog/2019/08/04/hello-world/"/>
+    <id>https://sim.bysb.net/blog/2019/08/04/hello-world/</id>
     <published>2019-08-03T16:00:00.000Z</published>
     <updated>2019-09-17T12:45:15.062Z</updated>
     
