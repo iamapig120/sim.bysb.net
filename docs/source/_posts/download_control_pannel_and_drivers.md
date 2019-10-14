@@ -7,7 +7,7 @@ tags:
 
 You can download the official control panel and drivers for Sim-Devices below. The CP supports all devices, which you can select in the settings of the CP.
 
-[中文](/2019/08/06/download_control_pannel_and_drivers/#下载设置工具和驱动程序)
+[中文](/simblog/2019/08/06/download_control_pannel_and_drivers/#下载设置工具和驱动程序)
 
 <!--more-->
 

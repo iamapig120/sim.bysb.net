@@ -7,7 +7,7 @@ tags:
 
 Hi, my name is Handle, I am an osu! player. Thanks for checking out my website and products!
 
-[中文版本](//sim.bysb.net/2019/08/04/%E5%85%B3%E4%BA%8E%E4%BD%9C%E8%80%85%EF%BC%8C%E4%BB%A5%E5%8F%8A-SimPad/)
+[中文版本](/simblog/2019/08/04/%E5%85%B3%E4%BA%8E%E4%BD%9C%E8%80%85%EF%BC%8C%E4%BB%A5%E5%8F%8A-SimPad/)
 
 <!-- more -->
 
