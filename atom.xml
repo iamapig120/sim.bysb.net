@@ -6,7 +6,7 @@
   <link href="/simblog/atom.xml" rel="self"/>
   
   <link href="https://sim.bysb.net/simblog/"/>
-  <updated>2019-10-13T20:43:06.672Z</updated>
+  <updated>2020-01-03T16:47:50.635Z</updated>
   <id>https://sim.bysb.net/simblog/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>SimPad 3 开发记录 最后更新于20200104</title>
+    <link href="https://sim.bysb.net/simblog/2020/01/04/simpad3-dev-log/"/>
+    <id>https://sim.bysb.net/simblog/2020/01/04/simpad3-dev-log/</id>
+    <published>2020-01-03T16:43:48.000Z</published>
+    <updated>2020-01-03T16:47:50.635Z</updated>
+    
+    <content type="html"><![CDATA[<p>想要知道 SimPad 3 设计开发进度么？算你来对地方了</p><p>点开文章，流水账一样的记录就会呈现到你面前了。</p><a id="more"></a><hr><p>20200101 SimPad 3 第四次打样的外壳样品已收到，或许是时候展示一番了</p><p><img src="simpad3_shell5_1.jpg" alt="simpad3_shell5_1"></p><p><img src="simpad3_shell5_2.jpg" alt="simpad3_shell5_2"></p><p><img src="simpad3_shell5_3.jpg" alt="simpad3_shell5_3"></p><hr><p>20191226 SimPad 3 外壳第四次打样，CNC加工</p><p>20191218 SimPad 3 电路板第四次打样</p><p>20191201 SimPad 3 电路板第三次打样</p><p>20191126 SimPad 3 外壳第三次打样，3D打印</p><p>20191120 SimPad 3 外壳第二次打样，3D打印</p><p>20191116 SimPad 3 外壳第一次打样，3D打印</p><p>20191108 SimPad 3 电路板第二次打样</p><p>20191102 SimPad 3 电路板第一次打样</p><p>20191004 进行拨动开关选型</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;想要知道 SimPad 3 设计开发进度么？算你来对地方了&lt;/p&gt;
+&lt;p&gt;点开文章，流水账一样的记录就会呈现到你面前了。&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>SimDevices 博客迁移</title>
