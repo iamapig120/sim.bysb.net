@@ -1,6 +1,7 @@
 title: SimPad 设置工具更新 v0.163
 author: Handle
 date: 2020-02-17 15:03:07
+lang: zh-CN
 tags:
 ---
 SimPad 设置工具已于 2020 年 2 月 17 日更新到 v0.163 版本，以下是更新内容

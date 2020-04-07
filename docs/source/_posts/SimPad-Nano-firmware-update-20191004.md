@@ -1,6 +1,7 @@
 title: SimPad Nano 20191004 更新概览
 author: Handle
 date: 2019-10-04 00:22:25
+lang: zh-CN
 tags:
 ---
 感谢您使用 SimPad Nano ！以下内容已经被包含在 SimPad Nano 固件版本 2019104 中推送和更新。

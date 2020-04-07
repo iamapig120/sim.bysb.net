@@ -1,6 +1,7 @@
 title: 关于作者，以及 SimPad
 author: Handle
 date: 2019-08-04 23:13:43
+lang: zh-CN
 tags:
 ---
 ## 我是谁

@@ -1,6 +1,7 @@
 title: SimPad 3 开发记录 最后更新于20200104
 author: Handle
 date: 2020-01-04 00:43:48
+lang: zh-CN
 tags:
 ---
 想要知道 SimPad 3 设计开发进度么？算你来对地方了

@@ -1,6 +1,7 @@
 title: SimPad Nano 20190820 更新概览
 author: Handle
 date: 2019-08-20 18:52:10
+lang: zh-CN
 tags:
 ---
 感谢您使用 SimPad Nano ！以下内容即将被包含在 SimPad Nano 固件版本 20190820 中推送和更新。

@@ -5,11 +5,23 @@
 # Site
 title: SimDevices
 subtitle: Simple but useful devices
-description: Website for simdevices
+description: SimDevices Control Base
 keywords: SimPad, SimDevices, osu, muse dash, Handle, SimClock
 author: Handle
-language: zh-CN
-timezone:
+language: 
+- zh-CN
+- zh-TW
+- en
+timezone: Asia/Shanghai
+i18n:
+  type:
+  - page
+  - post
+  generator:
+  - index
+  - archive
+  - category
+  - tag
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -52,6 +64,7 @@ index_generator:
   path: ''
   per_page: 10
   order_by: -date
+  single_language_index: true
   
 # Category & Tag
 default_category: uncategorized
