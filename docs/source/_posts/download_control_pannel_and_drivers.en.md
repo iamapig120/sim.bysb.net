@@ -23,7 +23,7 @@ You can download the official control panel and drivers for Sim-Devices below. T
 - [Baidu Netdisk](https://pan.baidu.com/s/1iyKR8VuCHOcb268qGasDjw)
 - [Google Drive](https://drive.google.com/open?id=1BKlzmygNA-BeAlN8PIP6oxpImct3_gvv)
 
-#### macOS (Latest version 0.158)
+#### macOS (Latest version 0.163)
 
 - [Github](https://github.com/iamapig120/simpad-control-panel/releases/latest)
 - [Chinese Mirror](http://simshop.po-i.cc:8117/check-roms/simpad_control_pannel_darwin.dmg)
