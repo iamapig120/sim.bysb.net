@@ -1,7 +1,7 @@
 title: SimPad 3 开发记录 最后更新于20200104
 author: Handle
-date: 2020-01-04 00:43:48
 lang: zh-CN
+date: 2020-01-04 00:43:48
 tags:
 ---
 想要知道 SimPad 3 设计开发进度么？算你来对地方了
@@ -12,11 +12,12 @@ ___
 
 20200101 SimPad 3 第四次打样的外壳样品已收到，或许是时候展示一番了
 
-![simpad3_shell5_1](simpad3_shell5_1.jpg)
+{% asset_img simpad3_shell5_1.jpg simpad3_shell5_1 %}
 
-![simpad3_shell5_2](simpad3_shell5_2.jpg)
+{% asset_img simpad3_shell5_2.jpg simpad3_shell5_2 %}
 
-![simpad3_shell5_3](simpad3_shell5_3.jpg)
+{% asset_img simpad3_shell5_3.jpg simpad3_shell5_3 %}
+
 ___
 
 20191226 SimPad 3 外壳第四次打样，CNC加工
