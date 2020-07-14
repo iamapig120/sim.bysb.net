@@ -16,7 +16,7 @@ tags:
 
 ### SimPad 設置工具
 
-#### Windows (最新版本 v0.163)
+#### Windows (最新版本 v0.165)
 
 - [Github 載點](https://github.com/iamapig120/simpad-control-panel/releases/latest)
 - [大陸鏡像](http://simshop.po-i.cc:8117/check-roms/simpad_control_pannel.zip)

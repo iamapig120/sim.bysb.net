@@ -16,7 +16,7 @@ You can download the official control panel and drivers for Sim-Devices below. T
 
 ### Control Panel for SimPad
 
-#### Windows (Latest version 0.163)
+#### Windows (Latest version 0.165)
 
 - [Github](https://github.com/iamapig120/simpad-control-panel/releases/latest)
 - [Chinese Mirror](http://simshop.po-i.cc:8117/check-roms/simpad_control_pannel.zip)
