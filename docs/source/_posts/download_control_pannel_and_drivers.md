@@ -23,7 +23,7 @@ tags:
 - [百度网盘](https://pan.baidu.com/s/1iyKR8VuCHOcb268qGasDjw)
 - [谷歌网盘](https://drive.google.com/open?id=1BKlzmygNA-BeAlN8PIP6oxpImct3_gvv)
 
-#### macOS (最新版本 v0.163)
+#### macOS (最新版本 v0.165)
 
 - [Github 载点](https://github.com/iamapig120/simpad-control-panel/releases/latest)
 - [中国大陆镜像](http://simshop.po-i.cc:8117/check-roms/simpad_control_pannel_darwin.dmg)
